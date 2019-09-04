@@ -49,10 +49,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="124.18446"
+     inkscape:cx="112.18446"
      inkscape:cy="114.73557"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g1057"
      showgrid="false"
      inkscape:window-width="1361"
      inkscape:window-height="855"
@@ -112,22 +112,7 @@
        id="path1077"
        d="M 47.625,50.881032 V 39.111226 6.2689676"
        style="fill:none;stroke:#1e90ff;stroke-width:0.69297016;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4529"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.66666794px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-3.7671403,5.1370346)"
-       inkscape:label="Name"><flowRegion
-         id="flowRegion4531"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.66666794px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1"><rect
-           id="rect4533"
-           width="174.11856"
-           height="97.77047"
-           x="35"
-           y="20.285713"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.66666794px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1e90ff;fill-opacity:1">Cameron Hudson</flowPara></flowRoot>    <g
+    <g
        id="g4623"
        transform="translate(-0.82429026,0.580471)">
       <text
@@ -255,6 +240,39 @@
          id="image6191"
          x="50.341183"
          y="35.13126" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1012"
+       style="font-style:normal;font-weight:normal;font-size:34.66666711px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion1014"
+         style="font-size:34.66666711px;"><rect
+           id="rect1016"
+           width="124"
+           height="52"
+           x="29.5"
+           y="29.5"
+           style="font-size:34.66666711px;" /></flowRegion><flowPara
+         id="flowPara1018">Cameron</flowPara></flowRoot>    <g
+       transform="translate(-2.0149153,-25.216403)"
+       id="g1057">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="7.5081916"
+         y="44.036041"
+         id="text1055"><tspan
+           id="tspan1053"
+           sodipodi:role="line"
+           x="7.5081916"
+           y="44.036041"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222214px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1e90ff;fill-opacity:1;stroke-width:0.26458332">Cameron</tspan><tspan
+           sodipodi:role="line"
+           x="7.5081916"
+           y="55.50132"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222214px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1e90ff;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan1061">Hudson</tspan></text>
     </g>
   </g>
   <g
