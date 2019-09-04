@@ -1,5 +1,7 @@
 # Business-Card
 
+<img src="https://github.com/CameronHudson8/Business-Card/blob/master/front.svg" alt="Business card front" width="100%">
+
 ## Prerequisites:
 
 * XQuartz (on MacOS, `brew cask install xquartz`)
