@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.75in"
+   height="2.25in"
+   viewBox="0 0 95.250001 57.150002"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="back.svg"
+   inkscape:export-filename="/Users/cameronhudson/Repositories/Personal/Business-Card/back.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4567">
+      <stop
+         style="stop-color:#97fdfd;stop-opacity:1"
+         offset="0"
+         id="stop4563" />
+      <stop
+         style="stop-color:#bcffff;stop-opacity:0.26395938"
+         offset="1"
+         id="stop4565" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4567"
+       id="linearGradient4569"
+       x1="0.066146851"
+       y1="18.001131"
+       x2="95.183853"
+       y2="18.001131"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="195.46634"
+     inkscape:cy="85.889668"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1361"
+     inkscape:window-height="855"
+     inkscape:window-x="184"
+     inkscape:window-y="58"
+     inkscape:window-maximized="0"
+     units="in"
+     borderlayer="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-239.84999)"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1736"
+       width="95.25"
+       height="57.150002"
+       x="-8.6597396e-15"
+       y="239.84999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Content">
+    <rect
+       style="display:none;opacity:1;fill:url(#linearGradient4569);fill-opacity:1;stroke:none;stroke-width:0.13229166;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4555"
+       width="95.117706"
+       height="24.946426"
+       x="0.066146851"
+       y="5.5279174"
+       inkscape:label="Stripe" />
+    <path
+       style="display:none;fill:#00ff00;stroke:#00ff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0.0712634,54.726442 95.264485,29.377205"
+       id="path5212"
+       inkscape:connector-curvature="0"
+       inkscape:label="Guide Line"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1077"
+       d="m 47.625,50.83583 c 0,-14.300884 0,-25.851319 0,-38.895127"
+       style="opacity:1;fill:none;stroke:#1e90ff;stroke-width:0.69300002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g1521"
+       transform="translate(-0.04052891,-0.53453656)">
+      <text
+         id="text1069"
+         y="15.510766"
+         x="5.4398804"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1110"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.18722224px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           y="15.510766"
+           x="5.4398804"
+           sodipodi:role="line">Bash</tspan><tspan
+           id="tspan1086"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           y="18.377085"
+           x="5.4398804"
+           sodipodi:role="line" /></text>
+      <text
+         id="text4607"
+         y="18.55863"
+         x="5.3512106"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8344444px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           y="18.55863"
+           x="5.3512106"
+           id="tspan4605"
+           sodipodi:role="line">echo &quot;Hello, World!&quot;</tspan></text>
+    </g>
+    <text
+       id="text900"
+       y="8.5746861"
+       x="21.719259"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+         y="8.5746861"
+         x="21.719259"
+         id="tspan898"
+         sodipodi:role="line">How to Say <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1"
+   id="tspan1734">&quot;hello&quot;</tspan> in Ten Languages</tspan></text>
+    <g
+       id="g1533"
+       transform="translate(-0.06381078,7.5812807)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="5.4398804"
+         y="15.510766"
+         id="text1527"><tspan
+           sodipodi:role="line"
+           x="5.4398804"
+           y="15.510766"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.18722224px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan1523">C</tspan><tspan
+           sodipodi:role="line"
+           x="5.4398804"
+           y="18.377085"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan1525" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="5.3512106"
+         y="18.55863"
+         id="text1531"><tspan
+           sodipodi:role="line"
+           id="tspan1529"
+           x="5.3512106"
+           y="18.55863"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8344444px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332">printf(&quot;Hello, World!\n&quot;);</tspan></text>
+    </g>
+    <g
+       id="g1552"
+       transform="translate(-0.06381078,15.546634)">
+      <text
+         id="text1539"
+         y="15.510766"
+         x="5.4398804"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1535"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.18722224px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           y="15.510766"
+           x="5.4398804"
+           sodipodi:role="line">C++</tspan><tspan
+           id="tspan1537"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           y="18.377085"
+           x="5.4398804"
+           sodipodi:role="line" /></text>
+      <text
+         id="text1543"
+         y="18.55863"
+         x="5.3512106"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8344444px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           y="18.55863"
+           x="5.3512106"
+           id="tspan1541"
+           sodipodi:role="line">std::cout &lt;&lt; &quot;Hello, World!\n&quot;;</tspan></text>
+    </g>
+    <g
+       transform="translate(-0.01544862,23.755385)"
+       id="g1571">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="5.4398804"
+         y="15.510766"
+         id="text1558"><tspan
+           sodipodi:role="line"
+           x="5.4398804"
+           y="15.510766"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.18722224px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan1554">C#</tspan><tspan
+           sodipodi:role="line"
+           x="5.4398804"
+           y="18.377085"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan1556" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="5.3512106"
+         y="18.55863"
+         id="text1562"><tspan
+           sodipodi:role="line"
+           id="tspan1560"
+           x="5.3512106"
+           y="18.55863"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8344444px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332">Console.WriteLine(&quot;Hello, World!&quot;);</tspan></text>
+    </g>
+    <g
+       id="g1754"
+       transform="translate(0,-0.53453905)">
+      <text
+         id="text1577"
+         y="47.583111"
+         x="5.3944187"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1573"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.18722224px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           y="47.583111"
+           x="5.3944187"
+           sodipodi:role="line">Java</tspan><tspan
+           id="tspan1575"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           y="50.449429"
+           x="5.3944187"
+           sodipodi:role="line" /></text>
+      <text
+         id="text1581"
+         y="50.630974"
+         x="5.3259091"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8344444px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           y="50.630974"
+           x="5.3259091"
+           id="tspan1579"
+           sodipodi:role="line">System.out.println(&quot;Hello, World!&quot;);</tspan></text>
+    </g>
+    <g
+       id="g1607"
+       transform="translate(44.51112,-1.737252)">
+      <g
+         id="g1634"
+         transform="translate(0,1.1097815)">
+        <text
+           id="text1601"
+           y="15.510766"
+           x="5.4398804"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             id="tspan1597"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.18722224px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+             y="15.510766"
+             x="5.4398804"
+             sodipodi:role="line">JavaScript</tspan><tspan
+             id="tspan1599"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+             y="18.377085"
+             x="5.4398804"
+             sodipodi:role="line" /></text>
+        <text
+           id="text1605"
+           y="18.55863"
+           x="5.3512106"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8344444px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+             y="18.55863"
+             x="5.3512106"
+             id="tspan1603"
+             sodipodi:role="line">console.log('Hello, World!&quot;);</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(44.503628,7.5812805)"
+       id="g1646">
+      <text
+         id="text1640"
+         y="15.510766"
+         x="5.4398804"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1636"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.18722224px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           y="15.510766"
+           x="5.4398804"
+           sodipodi:role="line">PHP</tspan><tspan
+           id="tspan1638"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           y="18.377085"
+           x="5.4398804"
+           sodipodi:role="line" /></text>
+      <text
+         id="text1644"
+         y="18.55863"
+         x="5.3512106"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8344444px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           y="18.55863"
+           x="5.3512106"
+           id="tspan1642"
+           sodipodi:role="line">echo &quot;Hello, World!&quot;;</tspan></text>
+    </g>
+    <g
+       transform="translate(44.503628,15.546634)"
+       id="g1658">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="5.4398804"
+         y="15.510766"
+         id="text1652"><tspan
+           sodipodi:role="line"
+           x="5.4398804"
+           y="15.510766"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.18722224px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan1648">Python</tspan><tspan
+           sodipodi:role="line"
+           x="5.4398804"
+           y="18.377085"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan1650" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="5.3512106"
+         y="18.55863"
+         id="text1656"><tspan
+           sodipodi:role="line"
+           id="tspan1654"
+           x="5.3512106"
+           y="18.55863"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8344444px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332">print('Hello, World!')</tspan></text>
+    </g>
+    <g
+       id="g1670"
+       transform="translate(44.484593,23.755385)">
+      <text
+         id="text1664"
+         y="15.510766"
+         x="5.4398804"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1660"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.18722224px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           y="15.510766"
+           x="5.4398804"
+           sodipodi:role="line">Ruby </tspan><tspan
+           id="tspan1662"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           y="18.377085"
+           x="5.4398804"
+           sodipodi:role="line" /></text>
+      <text
+         id="text1668"
+         y="18.55863"
+         x="5.3512106"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8344444px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           y="18.55863"
+           x="5.3512106"
+           id="tspan1666"
+           sodipodi:role="line">puts 'Hello, World!'</tspan></text>
+    </g>
+    <g
+       transform="translate(44.467582,31.537804)"
+       id="g1682">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="5.4398804"
+         y="15.510766"
+         id="text1676"><tspan
+           sodipodi:role="line"
+           x="5.4398804"
+           y="15.510766"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.18722224px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan1672">SQL</tspan><tspan
+           sodipodi:role="line"
+           x="5.4398804"
+           y="18.377085"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan1674" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="5.3512106"
+         y="18.55863"
+         id="text1680"><tspan
+           sodipodi:role="line"
+           id="tspan1678"
+           x="5.3512106"
+           y="18.55863"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8344444px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#212529;fill-opacity:1;stroke-width:0.26458332">SELECT &quot;Hello, World!&quot;;</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Bleed line"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <rect
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.13229167;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4527"
+       width="88.767708"
+       height="50.667709"
+       x="3.2411461"
+       y="3.2411454" />
+  </g>
+</svg>
